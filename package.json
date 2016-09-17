@@ -1,0 +1,27 @@
+{
+  "name": "hackz-international-meetup-api",
+  "version": "1.0.0",
+  "description": "HackZurich 2016 project API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkretz/hackz-international-meetup-api.git"
+  },
+  "keywords": [
+    "hackz2016"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkretz/hackz-international-meetup-api/issues"
+  },
+  "homepage": "https://github.com/mkretz/hackz-international-meetup-api#readme",
+  "dependencies": {
+    "mongoose": "^4.6.0",
+    "restify": "^4.1.1"
+  }
+}
